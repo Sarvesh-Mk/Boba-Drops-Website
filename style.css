@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#me {
+  width: 20%; 
+  height: 30%;
+}
+
+#doge {
+  width: 50%;
+  height: 50%;
+}
+
+body {
+  text-align: center;
+  font-family: 'Georgia';
+  background: #FAFAD2;
+  color: #191970;
+}
